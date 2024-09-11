@@ -4,7 +4,7 @@
     "category": "Social Media",
     "documentationUrl": "https://docs.wso2.com/display/ESBCONNECTORS/Spotify+Connector",
     "description": "The Spotify connector allows you to access the Spotify API through the WSO2 ESB. Spotify is a commercial music streaming service that provides digital rights management-restricted content from record labels including Sony, EMI, Warner Music Group, and Universal. Music can be browsed or searched by artist, album, genre, playlist, or record label.",
-    "status": "Active",
+    "status": "Inactive",
     "labels": [
         "connector"
     ],
